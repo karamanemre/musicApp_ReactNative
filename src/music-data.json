@@ -1,0 +1,35 @@
+[{
+    "title":"Çare var",
+    "url":"https://i.ytimg.com/vi/XGSQ8bqFaaU/sddefault.jpg",
+    "isSold":false
+},
+{
+    "title":"Nem kaldı",
+    "url":"https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/a/d/6/8/ad68270535a26a97fb9e01991851c4dd.jpg",
+    "isSold":true
+},
+{
+    "title":"Uzakta",
+    "url":"https://i4.hurimg.com/i/hurriyet/75/750x422/627d8da34e3fe11a50f82030.jpg",
+    "isSold":false
+},{
+    "title":"Labirent",
+    "url":"https://i1.sndcdn.com/artworks-yj5ZFka4z4KVy440-vWdl2A-t500x500.jpg",
+    "isSold":false
+},
+{
+    "title":"Sessiz",
+    "url":"https://i4.hurimg.com/i/hurriyet/75/750x422/627d8da34e3fe11a50f82030.jpg",
+    "isSold":true
+},
+{
+    "title":"Music title",
+    "url":"https://i4.hurimg.com/i/hurriyet/75/750x422/627d8da34e3fe11a50f82030.jpg",
+    "isSold":false
+},{
+    "title":"Music title",
+    "url":"https://i4.hurimg.com/i/hurriyet/75/750x422/627d8da34e3fe11a50f82030.jpg",
+    "isSold":true
+}
+
+]
